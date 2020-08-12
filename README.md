@@ -52,6 +52,7 @@ Coding-wise, you only need Python. But for the app to run, you will need:
 * Python 3
 * `yarn`
 
+To get your API beta invite visit [here](https://beta.openai.com/)
 Instructions to install Python 3 are [here](https://realpython.com/installing-python/), and instructions to install `yarn` are [here](https://classic.yarnpkg.com/en/docs/install/#mac-stable).
 
 ## Setup
